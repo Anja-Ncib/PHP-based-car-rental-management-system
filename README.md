@@ -1,0 +1,1 @@
+Built a PHP-based car rental management system that enables comprehensive management of vehicle and client data. The application includes functionalities for adding, displaying, and maintaining car and client records in a structured MySQL database, with a streamlined, user-friendly interface
